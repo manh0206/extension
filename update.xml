@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='bmmkijihoojnopmlifjpemlbnaaicadl'>
     <updatecheck
-      codebase='https://TEN_PROJECT.onrender.com/extension.crx'
+      codebase='https://extension-no7h.onrender.com'
       version='1.0' />
   </app>
 </gupdate>
